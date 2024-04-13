@@ -20,8 +20,8 @@ Performance analysis of the segmentation algorithms across 2D and 3D implementat
 Execution time and efficiency of the algorithms are documented to highlight the method's suitability for real-time applications.
 
 ### Libraries and Tools
-NumPy
-SciPy
-Scikit-Image
-Matplotlib
-Scikit-Learn
+* NumPy
+* SciPy
+* Scikit-Image
+* Matplotlib
+* Scikit-Learn

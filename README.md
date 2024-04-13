@@ -13,10 +13,8 @@ This project focuses on the segmentation of brain MRI tissue using a combination
 * Dice Coefficient: Provides a statistical validation of the segmentation accuracy by measuring the similarity between two sets.
   
 ### Results
-Comparison between different normalization and thresholding techniques.
-Performance analysis of the segmentation algorithms across 2D and 3D implementations.
-Execution time and efficiency of the algorithms are documented to highlight the method's suitability for real-time applications.
-![](data/Results.png)
+Comparison between different algorithms implemented.
+![Results](data/Results.png)
 ### Libraries and Tools
 * NumPy
 * SciPy

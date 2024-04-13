@@ -16,7 +16,7 @@ This project focuses on the segmentation of brain MRI tissue using a combination
 Comparison between different normalization and thresholding techniques.
 Performance analysis of the segmentation algorithms across 2D and 3D implementations.
 Execution time and efficiency of the algorithms are documented to highlight the method's suitability for real-time applications.
-(https://github.com/ankithsavio/Brain-MRI-Segmentation/blob/0625e5c5332648f61b0a217d2d07908672fb35e0/data/Results.png)
+![](data/Results.png)
 ### Libraries and Tools
 * NumPy
 * SciPy

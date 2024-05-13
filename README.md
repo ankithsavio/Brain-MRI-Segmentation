@@ -9,8 +9,8 @@ This project focuses on the segmentation of brain MRI tissue using a combination
 * 3D Segmentation: Extends the 2D segmentation approach to accommodate 3D volumetric data, providing more comprehensive analysis and segmentation accuracy.
   
 ### Evaluation Metrics
-* Jaccard Score: Used to evaluate the overlap between the predicted segmentation and the ground truth.
-* Dice Coefficient: Provides a statistical validation of the segmentation accuracy by measuring the similarity between two sets.
+* Jaccard Score (JI) : Used to evaluate the overlap between the predicted segmentation and the ground truth.
+* Dice Coefficient (DSC) : Provides a statistical validation of the segmentation accuracy by measuring the similarity between two sets.
   
 ### Results
 Comparison between different algorithms implemented.
